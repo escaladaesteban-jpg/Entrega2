@@ -1,0 +1,22 @@
+﻿ID_Provincia;Nombre_Provincia;Region
+1;Capital Federal;Centro
+2;Buenos Aires;Centro
+3;Santa Fe;Centro
+4;Cordoba;Centro
+5;Santiago del Estero;Centro
+6;San Luis;Cuyo
+7;Mendoza;Cuyo
+8;San Juan;Cuyo
+9;La Pampa;Patagonia
+10;Rio Negro;Patagonia
+11;Neuquen;Patagonia
+12;Tucuman;NOA
+13;La Rioja;NOA
+14;Catamarca;NOA
+15;Salta;NOA
+16;Jujuy;NOA
+17;Entre Rios;Litoral
+18;Corrientes;Litoral
+19;Misiones;Litoral
+20;Chaco;Litoral
+21;Formosa;Litoral
